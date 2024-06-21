@@ -16,5 +16,6 @@ Hey you. Welcome to this Course, i hope you enjoy it and learn a lot, please lea
 -Frank A. Broche Gómez   
 -Eva López Merino    
 -Victor Guzman   
--Federico Carmona   
+-Federico Carmona 
+-Natalia Delgado  
 
